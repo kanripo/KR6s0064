@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:18.889249
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:14
 #+TITLE: 諸佛世尊如來菩薩尊者神僧名經
 #+PROPERTY: CBETA_ID P178n1611
 #+PROPERTY: ID KR6s0064
