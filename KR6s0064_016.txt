@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6s0064_P_016-0517a> 
 #+PROPERTY: JUAN 16
 諸佛世尊如來菩薩尊者神僧名經卷第十¶
