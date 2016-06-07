@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6s0064_P_003-0227a> 
 #+PROPERTY: JUAN 3
 諸佛世尊如來菩薩尊者神僧名經卷第三¶
@@ -115,7 +115,7 @@
 方聲稱佛南無一切吉祥有德佛南無明讚¶
 梵天佛南無滅過佛南無師子身佛南無定¶
 意佛南無世明佛南無持鬘華藏佛南無無¶
-懼佛南無梵財佛南無一切梵壽無損佛南¶
+懼佛南無梵財佛南無一切梵壽無[損-口+ㄙ]佛南¶
 無樂智觀身佛南無師子頰佛南無寶輪威¶
 極上德佛南無深智佛南無聖德佛南無大¶
 車乘佛南無施豐德佛南無世間尊重佛南

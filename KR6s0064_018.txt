@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6s0064_P_018-0559a> 
 #+PROPERTY: JUAN 18
 諸佛世尊如來菩薩尊者神僧名經卷第十¶
@@ -22,7 +22,7 @@
 南無金胎長壽王果意調伏菩薩南無靜眼
 <pb:KR6s0064_P_018-0559b>¶
 電炎菩薩南無寶日慧行菩薩南無世間妙¶
-高王菩薩南無憍曰兜羅菩薩南無日幢蓮¶
+高王菩薩南無憍日兜羅菩薩南無日幢蓮¶
 手菩薩南無大菩薩南無普淨得炎菩薩南¶
 無大辯莊嚴王菩薩南無普緣觀菩薩南無¶
 清淨辯才菩薩南無無量勝思菩薩南無徧¶

@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6s0064_P_028-0819a> 
 #+PROPERTY: JUAN 28
 諸佛世尊如來菩薩尊者神僧名經卷第二¶
@@ -681,7 +681,7 @@
 #+END_VERSE
 
 #+BEGIN_VERSE
-「　○佛如來常說道滄海為田劫為¶灰好看那世人癡癡蠢蠢迷惑幾時回幸遇¶著太平得際天人會佛如來正好早早修行¶作善也諸佛如來
+「　○佛如來常說道滄海為田劫為¶[厂@火]好看那世人癡癡蠢蠢迷惑幾時回幸遇¶著太平得際天人會佛如來正好早早修行¶作善也諸佛如來
 　(和)好因果都只在發善心¶如來諸佛如來」
 #+END_VERSE
 

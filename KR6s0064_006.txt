@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6s0064_P_006-0291a> 
 #+PROPERTY: JUAN 6
 諸佛世尊如來菩薩尊者神僧名經卷第六¶
@@ -122,7 +122,7 @@
 <pb:KR6s0064_P_006-0296a>¶
 南無一切妙吼聲佛南無能破諸畏佛南無¶
 過勝佛南無香波頭摩佛南無三世鏡像勝¶
-佛南無毗樓博叉佛南無歌羅毗羅奮迅佛¶
+佛南無毗樓[怙-口+(田/寸)]叉佛南無歌羅毗羅奮迅佛¶
 南無離畏師佛南無二千寶幢佛南無一切¶
 甘露城佛南無離虛空畏佛南無擇說佛南¶
 無波頭摩光佛南無龍吼自在聲佛南無法¶
