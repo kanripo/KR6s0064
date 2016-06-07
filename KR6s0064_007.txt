@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:18.706583
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:14
 #+TITLE: 諸佛世尊如來菩薩尊者神僧名經
 #+PROPERTY: CBETA_ID P178n1611
 #+PROPERTY: ID KR6s0064
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0064_P_007-0315a> 
 #+PROPERTY: JUAN 7
-
- 諸佛世尊如來菩薩尊者神僧名經卷第七¶
+諸佛世尊如來菩薩尊者神僧名經卷第七¶
 
 南無種種光明大月佛南無智日鷄都佛南¶
 無善快辟支佛南無無量智敷佛南無不退¶
@@ -182,7 +181,7 @@
 山佛南無寂靜月聲佛南無不可思議法身¶
 佛南無妙頂香林佛南無寂滅佛南無地自¶
 在王佛南無普智聲王佛南無大照希聲佛¶
-南無婆藪陀聲佛南無法蓋佛南無華幢佛¶
+南無婆藪陀聲佛南無法蓋佛南無華憧佛¶
 南無億藏佛南無高稱佛南無徧相圓堅一¶
 切功德莊嚴佛南無梵吼天聲佛南無功德¶
 尊佛南無旃檀自在佛南無淨鏡離塵佛南

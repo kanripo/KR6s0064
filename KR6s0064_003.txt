@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:18.598126
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:14
 #+TITLE: 諸佛世尊如來菩薩尊者神僧名經
 #+PROPERTY: CBETA_ID P178n1611
 #+PROPERTY: ID KR6s0064
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0064_P_003-0227a> 
 #+PROPERTY: JUAN 3
-
- 諸佛世尊如來菩薩尊者神僧名經卷第三¶
+諸佛世尊如來菩薩尊者神僧名經卷第三¶
 
 南無彌勒仙光佛南無無比慧普照輪月佛¶
 南無喜解佛南無護妙法幢佛南無普飛廣¶

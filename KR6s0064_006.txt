@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:18.681284
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:14
 #+TITLE: 諸佛世尊如來菩薩尊者神僧名經
 #+PROPERTY: CBETA_ID P178n1611
 #+PROPERTY: ID KR6s0064
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0064_P_006-0291a> 
 #+PROPERTY: JUAN 6
-
- 諸佛世尊如來菩薩尊者神僧名經卷第六¶
+諸佛世尊如來菩薩尊者神僧名經卷第六¶
 
 南無一切世間尊佛南無名行足佛南無永¶
 過輪迴苦佛南無得最上涅槃佛南無第一¶

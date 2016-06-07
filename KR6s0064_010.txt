@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:18.796433
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:14
 #+TITLE: 諸佛世尊如來菩薩尊者神僧名經
 #+PROPERTY: CBETA_ID P178n1611
 #+PROPERTY: ID KR6s0064
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0064_P_010-0387a> 
 #+PROPERTY: JUAN 10
-
- 諸佛世尊如來菩薩尊者神僧名經卷第十¶
+諸佛世尊如來菩薩尊者神僧名經卷第十¶
 
 南無普觀如來南無大名稱如來南無寶蓮¶
 華如來南無上眾如來南無離胎如來南無¶
@@ -459,7 +458,7 @@
 摩耶如來南無一切無塵垢如來南無虛空¶
 清淨如來南無有邊意香如來南無寶所出¶
 如來南無積力如來南無法界智燈如來南¶
-無華所出如來南無師了力如來南無已得¶
+無華所出如來南無師了力如來南無巳得¶
 願如來南無華敷王如來南無一切無疑捨
 <pb:KR6s0064_P_010-0407b>¶
 如來南無虛空圓淨如來南無眾王劫波如¶

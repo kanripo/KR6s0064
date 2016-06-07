@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:18.863745
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:14
 #+TITLE: 諸佛世尊如來菩薩尊者神僧名經
 #+PROPERTY: CBETA_ID P178n1611
 #+PROPERTY: ID KR6s0064
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 178, No. 1611
 #+PROPERTY: VOL 178
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0064_P_012-0431a> 
 #+PROPERTY: JUAN 12
-
- 諸佛世尊如來菩薩尊者神僧名經卷第十¶
+諸佛世尊如來菩薩尊者神僧名經卷第十¶
 二　　　　　　　　　　　　　　亭二¶
 
 南無勝意海如來南無善梵天如來南無眾¶
